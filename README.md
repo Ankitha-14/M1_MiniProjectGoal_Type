@@ -57,3 +57,8 @@
 
 # Low level Requirements
 * LL01_HL01  Operators                                              - Implemented
+
+# Design
+
+![Calculator-Design](https://user-images.githubusercontent.com/85921878/153576609-d93b533f-1faa-4e52-b08f-3bcdd2d1b7a2.png)
+
