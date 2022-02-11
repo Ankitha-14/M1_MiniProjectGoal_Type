@@ -1,3 +1,11 @@
+# Certificates
+
+* Sololearn
+* Github
+* Cisco NDG
+* Hackerearth Points
+
+
 # M1_MiniProjectGoal_Type
 # Requirements
   The Mini project is the application to calculate using calculator. The tool used for writing the code in this project is visual studio code. This project has multi file and multiplatform approach.
