@@ -23,7 +23,7 @@
   * Threat:
              Has to be implemented more regarding operators.
              
-  ![swot analysis](https://user-images.githubusercontent.com/85921878/154485531-831b4cae-569e-4d63-9371-8a3036aacc85.png)
+ 
 
              
      
