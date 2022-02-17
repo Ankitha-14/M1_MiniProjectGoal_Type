@@ -1,5 +1,5 @@
 all:
-  * gcc calculator.c -o proj1 -std=c99
+  gcc calculator.c -o proj1 -std=c99
 
 
 # Document the code using Doxygen
