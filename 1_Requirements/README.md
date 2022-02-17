@@ -1,4 +1,8 @@
-# Requirements
+# Identifying Features
+  Calculates using math operators for easy purpose.
+ # State of Art
+ The main purpose is to calculate mathematical calculations.
+ # Requirements
   The Mini project is the application to calculate using calculator. The tool used for writing the code in this project is visual studio code. This project has multi file and multiplatform approach.
      • Key to store the entered keys
      • Expression to store the Expression string to be processed
@@ -19,19 +23,19 @@
   * Threat:
              Has to be implemented more regarding operators.
              
- * 5W's & 1'H
-    
-* What:  calculator**
+ * |5W's & 1'H|
+  ----------------------
+* |What:  calculator|
 
-* Why: To calculate easily.
+* |Why: To calculate easily.|
 
-* Where: School, Shops, domestic, industries, Technology
+* |Where: School, Shops, domestic, industries, Technology|
 
-* When: For large values calculation.
+* |When: For large values calculation.|
 
-* Who: Students and Shop holders etc.
+* |Who: Students and Shop holders etc.|
 
-* How: Calculates by using the operators used in it.
+* |How: Calculates by using the operators used in it.|
     
 # High Level Requirements
 
@@ -52,4 +56,3 @@
 * LL02_HL02 	Ability to calculate using all the operands at a time - Implemented
 
 * LL03_HL03 	Calculates  results                                 - Implemented
-
