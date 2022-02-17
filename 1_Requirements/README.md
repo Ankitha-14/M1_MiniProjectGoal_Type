@@ -24,18 +24,18 @@
              Has to be implemented more regarding operators.
              
  * |5W's & 1'H|
-  ----------------------
-* |What:  calculator|
+  | -------|---------------|
+* |What|  calculator|
 
-* |Why: To calculate easily.|
+* |Why| To calculate easily.|
 
-* |Where: School, Shops, domestic, industries, Technology|
+* |Where| School, Shops, domestic, industries, Technology|
 
-* |When: For large values calculation.|
+* |When| For large values calculation.|
 
-* |Who: Students and Shop holders etc.|
+* |Who| Students and Shop holders etc.|
 
-* |How: Calculates by using the operators used in it.|
+* |How| Calculates by using the operators used in it.|
     
 # High Level Requirements
 
