@@ -23,7 +23,7 @@
   * Threat:
              Has to be implemented more regarding operators.
              
- # High Level Requirements          
+     
              
              
 |        |                 5W's & 1'H                     |
@@ -34,8 +34,9 @@
 |When    | For large values calculation                   |
 |Who     | Students and Shop holders etc                  |
 |How     | Calculates by using the operators used in it   |
+ # High Level Requirements          
+             
 
-# Low Level Requirements
     
 |     ID 	Description 	Status                    | High Level Requirements|
 |-------------------------------------------------|-------------       |                  
@@ -44,7 +45,7 @@
 | HL03 To Multiply and divide N number of Values  |  Implemented|
 | HL04 To implement using C language              |  Implemented|
 
-
+# Low Level Requirements
 
 | ID 	Description 	Status                                         |Low level Requirements|
 |------------------------------------------------------------------|----------------|
