@@ -23,6 +23,9 @@
   * Threat:
              Has to be implemented more regarding operators.
              
+             
+             
+             
 |        |                 5W's & 1'H                     |
 | -------|------------------------------------------------|
 |What    |  calculator                                    |
@@ -41,9 +44,8 @@
 
 
 
-# Low level Requirements
-* LL01_HL01  Operators                                              - Implemented
-
-* LL02_HL02 	Ability to calculate using all the operands at a time - Implemented
-
-* LL03_HL03 	Calculates  results                                 - Implemented
+| ID 	Description 	Status                                         |Low level Requirements|
+|------------------------------------------------------------------|----------------|
+|LL01_HL01  Operators                                              |Implemented|
+| LL02_HL02 	Ability to calculate using all the operands at a time| Implemented|
+| LL03_HL03 	Calculates  results                                  |Implemented|
