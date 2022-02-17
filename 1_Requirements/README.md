@@ -55,4 +55,4 @@
 
 # Best Followed method
 
-W
+It's better to use seitch case.
