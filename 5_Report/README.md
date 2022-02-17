@@ -27,6 +27,9 @@
               Implemented and used in our daily activities.
   * Threat:
              Has to be implemented more regarding operators.
+             
+![SWOT-Analysis-Template](https://user-images.githubusercontent.com/85921878/154492580-2367f214-94eb-49c6-b11f-661e79cab5f5.png)
+
   
               
              
