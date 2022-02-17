@@ -23,7 +23,7 @@
   * Threat:
              Has to be implemented more regarding operators.
              
-             
+ # High Level Requirements          
              
              
 |        |                 5W's & 1'H                     |
@@ -34,6 +34,8 @@
 |When    | For large values calculation                   |
 |Who     | Students and Shop holders etc                  |
 |How     | Calculates by using the operators used in it   |
+
+# Low Level Requirements
     
 |     ID 	Description 	Status                    | High Level Requirements|
 |-------------------------------------------------|-------------       |                  
