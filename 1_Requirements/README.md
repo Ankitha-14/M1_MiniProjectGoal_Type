@@ -32,16 +32,12 @@
 |Who     | Students and Shop holders etc                  |
 |How     | Calculates by using the operators used in it   |
     
-# High Level Requirements
-
-* ID 	Description 	Status
-* HL01 To Add N number of values                       - Implemented
-
-* HL02 To subtract N number of values                  - Implemented
-
-* HL03 To Multiply and divide N number of Values       - Implemented
- 
-* HL04 To implement using C language                   - Implemented
+|     ID 	Description 	Status                    | High Level Requirements|
+|-------------------------------------------------|-------------       |                  
+| HL01 To Add N number of values                  |  Implemented|
+| HL02 To subtract N number of values             |  Implemented|
+| HL03 To Multiply and divide N number of Values  |  Implemented|
+| HL04 To implement using C language              |  Implemented|
 
 
 
