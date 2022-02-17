@@ -52,3 +52,7 @@
 |LL01_HL01  Operators                                              |Implemented|
 | LL02_HL02 	Ability to calculate using all the operands at a time| Implemented|
 | LL03_HL03 	Calculates  results                                  |Implemented|
+
+# Best Followed method
+
+W
