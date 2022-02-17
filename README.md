@@ -27,7 +27,39 @@
               Implemented and used in our daily activities.
   * Threat:
              Has to be implemented more regarding operators.
+
              
+|        |                 5W's & 1'H                     |
+| -------|------------------------------------------------|
+|What    |  calculator                                    |
+|Why     | To calculate easily.                           |
+|Where   | School, Shops, domestic, industries, Technology|
+|When    | For large values calculation                   |
+|Who     | Students and Shop holders etc                  |
+|How     | Calculates by using the operators used in it   |
+ # High Level Requirements          
+             
+
+    
+|     ID 	Description 	Status                    | High Level Requirements|
+|-------------------------------------------------|-------------       |                  
+| HL01 To Add N number of values                  |  Implemented|
+| HL02 To subtract N number of values             |  Implemented|
+| HL03 To Multiply and divide N number of Values  |  Implemented|
+| HL04 To implement using C language              |  Implemented|
+
+# Low Level Requirements
+
+| ID 	Description 	Status                                         |Low level Requirements|
+|------------------------------------------------------------------|----------------|
+|LL01_HL01  Operators                                              |Implemented|
+| LL02_HL02 	Ability to calculate using all the operands at a time| Implemented|
+| LL03_HL03 	Calculates  results                                  |Implemented|
+
+# Best Followed method
+
+It's better to use switch case.
+
 
 
 # Design
