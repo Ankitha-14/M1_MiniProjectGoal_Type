@@ -23,8 +23,7 @@
   * Threat:
              Has to be implemented more regarding operators.
              
-|5W's & 1'H|
-
+|        |                 5W's & 1'H                     |
 | -------|------------------------------------------------|
 |What    |  calculator                                    |
 |Why     | To calculate easily.                           |
