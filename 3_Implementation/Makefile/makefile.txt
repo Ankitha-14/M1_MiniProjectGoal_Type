@@ -1,0 +1,31 @@
+all:
+  gcc calculator.c -o proj1 -std=c99
+
+
+# Document the code using Doxygen
+doc:
+	make -C ./documentation
+
+
+# All source code files
+SRC = project_main.c\
+src/calculator.c
+
+# All test source files
+TEST_SRC = src/calculator.c\
+test/test_calculator.c\
+unity/unity.c\
+
+
+
+analyze: test memcheck staticcheck coverage sanitize_check
+
+staticcheck:
+	cpp check --enable = all -Iunity.
+
+memcheck:
+	valgrind ./$(TEST_OUTPUT)
+
+#  Create new build folder if not present
+$(BUILD):
+	mkdir build
